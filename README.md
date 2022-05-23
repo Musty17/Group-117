@@ -103,6 +103,10 @@ ayrılan efor/saat kalite için arttırılmalıdır.
 ---
 - Ürün Durumu: Ekran görüntüleri:
 ![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
+![3333](https://user-images.githubusercontent.com/104782324/169852437-5ba0bb77-ef41-488c-8510-7f948b8f6a69.PNG)
+![2222222](https://user-images.githubusercontent.com/104782324/169852474-92f9eb36-0691-40c3-9958-cfe51a179e04.PNG)
+![1111](https://user-images.githubusercontent.com/104782324/169852495-92ce2eb4-92c3-4453-9abd-d5dbad6b1803.PNG)
+
 ---
 
 - Sprint Review: Alınan kararlar: Karekterin fiziksel harektleri (hızı, zıplaması) incelendi. Oyunun oynanabirlitesini arttırmak üzeri kafa yoruldu. Oyunu rekabetçi hale getirilmesine karar verildi.
