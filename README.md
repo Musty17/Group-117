@@ -6,7 +6,7 @@ Star
 
 ## Takım Elemanları
 
-- Mehmet Ehliz (Scrum Master)
+- Mehmet Ehliz (Scrum Master) sasasaassa
 - Gamze Nur Kuyumcu (Product Owner)
 - Mustafa Yiğit (Developer)
 - Çağla Uysal (Developer)
